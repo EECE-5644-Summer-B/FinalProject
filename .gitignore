@@ -1,4 +1,4 @@
 images/*
-sanitized-images/*
+*-images/*
 .venv
 .vscode
